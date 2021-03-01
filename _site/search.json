@@ -1,0 +1,12 @@
+{
+  "articles": [
+    {
+      "path": "index.html",
+      "title": "Data-n-stats-things",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-01T17:17:50+13:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
