@@ -1,1 +1,1 @@
-# data-n-stats-things
+# data-n-stats-things blog
